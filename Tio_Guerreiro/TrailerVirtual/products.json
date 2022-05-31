@@ -1,0 +1,418 @@
+{
+	"products" : [
+		{
+			"name" : "DOG SIMPLES",
+			"price" : "R$8.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/dog-s.jpeg",
+			"description" : "Uma salcicha e meia, vinagrete e batata palha no pão de hamburguer"
+
+		},
+
+		{
+			"name" : "DOG ESPECIAL",
+			"price" : "R$14.00",
+			"options" : [
+			    { "" : ""}
+			],
+			"image" : "images/tio.jpeg",
+			"description" : "2 Salcichas, bacon, calabresa, queijo, vinagrete e batata palha no pão de hamburguer"
+		},
+
+		{
+			"name" : "HAMBURGUER",
+			"price" : "R$11.00",
+			"options" : [
+				{ "" : "" }
+			],
+			"image" : "images/lanches.jpeg",
+			"description" : "Hamburguer, vinagrete e batata palha"
+		},
+
+		{
+			"name" : "X-BURGUER",
+			"price" : "R$13.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/lanches.jpeg",
+			"description" : "Hamburguer, queijo, vinagrete e batata palha"
+
+		},
+
+		{
+			"name" : "X-BURGUER ESPECIAL",
+			"price" : "R$14.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/lanches.jpeg",
+			"description" : "Hamburguer, bacon, calabresa, queijo, vinagrete e batata palha"
+
+		},
+
+		{
+			"name" : "X-FRANGO SALADA",
+			"price" : "R$14.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/FRANGO.jpeg",
+			"description" : "Filé de frango, queijo, salada e batata palha"
+
+		},
+
+		{
+			"name" : "X-SALADA",
+			"price" : "R$14.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/salada.jpeg",
+			"description" : "Hamburguer, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "X-EGG SALADA",
+			"price" : "R$14.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/egg-bac-sal.jpeg",
+			"description" : "Hamburguer, ovo, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "X-EG BACON SALADA",
+			"price" : "R$16.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/egg-bac-sal.jpeg",
+			"description" : "Hamburguer, ovo, bacon, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "X-OMELETE",
+			"price" : "R$15.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/lanches.jpeg",
+			"description" : "2 ovos, bacon, calabresa, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "X-OMELTE ESPECIAL",
+			"price" : "R$16.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/lanches.jpeg",
+			"description" : "Hamburguer, 2 ovos, bacon, calabresa, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "X-BACON",
+			"price" : "R$16.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/lanches.jpeg",
+			"description" : "Hamburguer, bacon, queijo, vinagrete e batata palha"
+		},
+
+		{
+			"name" : "X-FRANGO ESPECIAL",
+			"price" : "R$16.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/lanches.jpeg",
+			"description" : "Filé de frango, bacon, calabresa, queijo, catupiry, vinagrete e batata palha"
+		},
+
+		{
+			"name" : "X-GUERREIRO 1",
+			"price" : "R$16.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/tio.jpeg",
+			"description" : "2 salcichas, 2 hamburguer, 2 ovos, salada, queijo e batata palha"
+		},
+
+		{
+			"name" : "X-GUERREIRO 2",
+			"price" : "R$17.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/tio1.jpeg",
+			"description" : "2 Hamburguer,2 ovos, bacon, calabresa, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "X-GUERREIRO 3",
+			"price" : "R$18.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/tio2.jpeg",
+			"description" : "2 filés de frango,2 ovos, bacon, calabresa, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "X-TUDO",
+			"price" : "R$21.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/tudo.jpeg",
+			"description" : "Hamburguer, filé de frango, ovo, salcicha, bacon, calabresa, catupiry, queijo, salada e batata palha"
+		},
+
+		{
+			"name" : "DOG VEGETARIANO",
+			"price" : "R$10.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/dog-veg.jpeg",
+			"description" : "Salcicha vegetariana, vinagrete e batata palaha no pão de hamburguer"
+		},
+
+		{
+			"name" : "DOG ESP. VEGETAR.",
+			"price" : "R$16.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/dog-veg.jpeg",
+			"description" : "Salcicha vegetariana, queijo, ovo e batata palha no pão de hamburguer"
+		},
+
+		{
+			"name" : "BURGUER VEGETAR.",
+			"price" : "R$13.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/burguer-veg.jpeg",
+			"description" : "Hamburguer vegetariano, vinagrete e batata palha"
+		},
+
+		{
+			"name" : "BURGUER VEG. ESPEC.",
+			"price" : "R$16.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/veg-ovo.jpeg",
+			"description" : "Hamburguer vegetariano, queijo, ovo e batata palha"
+		},
+
+		{
+			"name" : "OMELETE NO PÃO",
+			"price" : "R$17.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/omelete.jpeg",
+			"description" : "Salcicha vegetariana, 2 ovos, queijo, salada e batata palha no pão de hamburguer"
+		},
+
+		{
+			"name" : "OMELETE ESP. NO PÃO",
+			"price" : "R$19.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/omelete.jpeg",
+			"description" : "Hamburguer vegetariano, 2 ovos, queijo, salada e batata palha no pão de hamburguer"
+		},
+
+		{
+			"name" : "VEGETARIANO 1",
+			"price" : "R$9.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/logo.jpeg",
+			"description" : "Ovo, queijo, vinagrete e batata palha"
+		},
+
+		{
+			"name" : "LANCHE VEGETARIANO 2",
+			"price" : "R$8.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/logo.jpeg",
+			"description" : "Queijo, vinagrete e batata palha"
+		},
+
+		{
+			"name" : "ACRESCIMO DE UM HAMBURGUER",
+			"price" : "R$2.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/burguer.jpeg",
+			"description" : "Acrescimo de um hamburguer no lanche"
+		},
+
+		{
+			"name" : "ACRESCIMO DE BACON",
+			"price" : "R$2.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/bacon.jpeg",
+			"description" : "Acrescimo de bacon no lanche"
+		},
+
+		{
+			"name" : "ACRESCIMO DE CALABRESA",
+			"price" : "R$2.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/calabresa.jpeg",
+			"description" : "Acrescimo de calabresa no lanche"
+		},
+
+		{
+			"name" : "ACRESCIMO DE QUEIJO",
+			"price" : "R$2.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/queijo.jpeg",
+			"description" : "Acrescimo de mussarela no lanche"
+		},
+
+		{
+			"name" : "ACRESCIMO DE CATUPIRY",
+			"price" : "R$2.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/catupiry.jpeg",
+			"description" : "Acrescimo de catupiry no lanche"
+		},
+
+		{
+			"name" : "ACRESCIMO DE SALCICHA",
+			"price" : "R$1.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/salcicha.jpeg",
+			"description" : "Acrescimo de uma salcicha no lanche"
+		},
+
+		{
+			"name" : "ACRESC. DE SALADA OU VINAGRETE",
+			"price" : "R$1.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/vinagrete.jpeg",
+			"description" : "Acrescimo de salada ou vinagrete no lanche"
+		},
+
+		{
+			"name" : "ACRESCIMO DE BATATA PALHA",
+			"price" : "R$1.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/batata.jpeg",
+			"description" : "Acrescimo de batata palha no lanche"
+		},
+
+		{
+			"name" : "AGUA 500ML",
+			"price" : "R$2.50",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/agua.jpeg",
+			"description" : "Agua mineral sem gás de 500ml"
+		},
+
+		{
+			"name" : "AGUA COM GÁS 500ML",
+			"price" : "R$3.00",
+			"options" : [
+			    { "":""}
+			],
+			"image" : "images/aguag.jpeg",
+			"description" : "Agua mineral com gás de 500ml"
+		},
+
+		{
+			"name" : "REFRIGERANTE 220ML",
+			"price" : "R$3.00",
+			"options" : [
+			    { "sabor":"coca, laranja, limão, guarana"}
+			],
+			"image" : "images/coca.jpeg",
+			"description" : "Refrigerante de 200ml sabores"
+		},
+
+		{
+			"name" : "REFRIGERANTE 350ML",
+			"price" : "R$4.50",
+			"options" : [
+			    { "sabor":"coca,coca diet, laranja, limão, guarana, guarana diet"}
+			],
+			"image" : "images/350ml.jpeg",
+			"description" : "Refrigerante de 350ml sabores"
+		},
+
+		{
+			"name" : "REFRIGERANTE 600ML",
+			"price" : "R$6.50",
+			"options" : [
+			    { "sabor":"coca, laranja, limão, guarana"}
+			],
+			"image" : "images/600ml.jpeg",
+			"description" : "Refrigerante de 600ml sabores"
+		},
+
+		{
+			"name" : "REFRIGERANTE 1 litro",
+			"price" : "R$7.50",
+			"options" : [
+			    { "sabor":"coca, laranja, limão, guarana"}
+			],
+			"image" : "images/1l.jpeg",
+			"description" : "Refrigerante de 1 litro sabores"
+		},
+
+		{
+			"name" : "REFRIGERANTE 2 litros",
+			"price" : "R$11.00",
+			"options" : [
+			    { "sabor":"coca, laranja, limão, guarana"}	
+			],
+			"image" : "images/1l.jpeg",
+			"description" : "Refrigerante de 1 litro sabores"
+		},
+
+		{
+			"name" : "TUBAINA 2 litros",
+			"price" : "R$7.00",
+			"options" : [
+			    { "":""}	
+			],
+			"image" : "images/tubaina.jpeg",
+			"description" : "Tubaina de 2 litros"
+		}
+
+	]
+}
